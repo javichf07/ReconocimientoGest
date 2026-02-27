@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+mediapipe==0.10.9
+protobuf==3.20.3
+numpy==1.24.3
+matplotlib
+scikit-learn
+pillow
+opencv-python
+seaborn

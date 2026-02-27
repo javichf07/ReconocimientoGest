@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+
+# Directorios de datos y modelos (¡Importante no subir a GitHub!)
+dataset/
+videos/
+models/
+
+# Archivos temporales de depuración
+debug_env.py
+debug_mediapipe.py
+temp_video_workaround.mp4
+
+# IDEs y Editores
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
