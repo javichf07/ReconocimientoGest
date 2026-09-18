@@ -126,5 +126,5 @@ def extraer_frames_de_videos(origen_videos="videos", destino_dataset=config.DIR_
     print(f"\nProceso completado. Total imágenes generadas: {imgs_totales}")
 
 if __name__ == "__main__":
-    # Puedes ajustar frames_por_segundo segn qué tantos datos quieras generar
+    # Se puedeajustar frames_por_segundo segunse requiera
     extraer_frames_de_videos(frames_por_segundo=30)
